@@ -1,16 +1,23 @@
-### Hi there 👋
+Hey, I'm Adeola 👋
 
-<!--
-**addips-code/addips-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Great! You have arrived here
+I'm a frontend Developer 💻 at aaceinigeriasection and also a Content Creator ✍️
+I am self-taught 🚀 and I love talking & writing about Web Development , & Software Development in general.
 
-Here are some ideas to get you started:
+I have been coding for over four (4) years and am currently a developer with AACEINIGERIASECTION 💸 with experience in working with Core Banking Services and working on Mobile friendly websites having integrated 👨🏻‍💻 and worked with teams from different part of Nigeria.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I 💛 building real-time applications but I mostly work on and experiment with APIs of all sort and have the love to build APIs and deploy them using my favorite operating system MacOS 👾.
+
+I am on a journey to make web Development accessible to everyone in my locale and abroad and I would love to share that journey with you 💛
+
+ heyAdeola
+
+About Me:
+🛠   I’m currently working at aaceiNigeriaSection
+🚀   I’m currently writing content for my Twitter audience
+📫   How to reach me on Twitter @adeolaadeniji19
+💼   Find my resume on LinkedIn
+Hobbies:
+🎸   I enjoy playing table tennis.
+🎮   I love playing games.
+✍️   I love reading and writing.
